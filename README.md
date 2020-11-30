@@ -46,7 +46,7 @@ Programming Language: Python 3.7.4<br>
 Libraries: Numpy, Pandas, Scipy, Pyspark, Geopy, Re<br>
 
 ## Project Files
-* [README](https://github.com/Ericjung008/BART/edit/main/README.md)
+* [README](https://github.com/Ericjung008/BART/blob/main/README.md)
 * [Project](https://github.com/Ericjung008/BART/blob/main/BART.ipynb)
 * [2016 Dataset](https://www.kaggle.com/saulfuh/bart-ridership)
 * [2017 Dataset](https://www.kaggle.com/saulfuh/bart-ridership)
